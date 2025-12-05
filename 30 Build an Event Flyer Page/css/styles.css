@@ -1,0 +1,20 @@
+body {
+  max-width: calc(100% - 200px);
+  margin: 20px auto;
+  text-align: center;
+}
+
+main {
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+
+ul {
+  text-align: left;
+}
