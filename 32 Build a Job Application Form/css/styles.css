@@ -34,7 +34,7 @@ textarea {
   box-sizing: border-box;
 }
 
-input[required] {
+input:required {
   background-color: bisque;
 }
 
@@ -101,3 +101,4 @@ button {
 button:hover {
   background-color: rgb(3, 155, 3);
 }
+
